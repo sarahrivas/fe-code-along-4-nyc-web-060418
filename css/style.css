@@ -85,3 +85,7 @@ figcaption {
 .col-2 {
   /* this column will span two-thirds */
 }
+
+.col-3 {
+  /* this column will span all the entire wrapper */
+}
